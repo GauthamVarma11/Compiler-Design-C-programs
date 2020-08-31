@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+  //initial state is q0
   int state=0,i=0;
   char current,input[20];
   printf("Enter input string \t :");
